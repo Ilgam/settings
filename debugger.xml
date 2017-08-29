@@ -6,6 +6,9 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="*phpmyadmin*" />
+          </stepping-filters>
         </configuration>
       </debugger>
     </debuggers>
