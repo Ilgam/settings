@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="main.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,7 +13,6 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.ph</mask>
       <mask>*.tp</mask>
@@ -23,6 +22,12 @@
       <mask>*.p</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*.css</mask>
+      <mask>.css</mask>
+      <mask>m.css</mask>
+      <mask>ma.css</mask>
+      <mask>mai.css</mask>
+      <mask>main.css</mask>
     </recentFileMasks>
   </component>
 </application>
