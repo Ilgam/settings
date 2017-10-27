@@ -27,13 +27,13 @@
       <mask>*,</mask>
       <mask>*/.</mask>
       <mask>*/</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
-      <mask>*.tpl</mask>
       <mask>.css</mask>
       <mask>*.css</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
