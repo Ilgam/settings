@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Debugger" shouldLog="false" />
+  </component>
+</application>
