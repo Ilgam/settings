@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Debugger" displayType="NONE" />
-    <notification groupId="Debugger messages" displayType="NONE" />
-    <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
-  </component>
-</application>
