@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be489587-e7eb-410e-8a89-2cdc8094a0b0" name="laravel.loc" url="http://laravel.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
